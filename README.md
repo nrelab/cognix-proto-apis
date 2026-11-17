@@ -47,13 +47,13 @@ cognix-proto-apis/
 Install the package from a pinned commit:
 
 ```bash
-npm install @cognix/multi-agent-api-v1@github:cognix/cognix-proto-apis#<commit-sha>
+npm install @cognix/multi-agent-api-v1@github:nrelab/cognix-proto-apis#<commit-sha>
 ```
 
 or:
 
 ```bash
-yarn add @cognix/multi-agent-api-v1@https://github.com/cognix/cognix-proto-apis#<commit-sha>
+yarn add @cognix/multi-agent-api-v1@https://github.com/nrelab/cognix-proto-apis#<commit-sha>
 ```
 
 Bindings are generated on the consumer's machine by the package's `prepare` script, so Git installs require:
