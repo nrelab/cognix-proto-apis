@@ -363,7 +363,7 @@ const file_todo_proto_rawDesc = "" +
 	"\x12UpdatePendingTodos\x12S\n" +
 	"\x15updated_pending_todos\x18\x01 \x03(\v2\x1f.cognix.multi_agent.v1.TodoItemR\x13updatedPendingTodos\"/\n" +
 	"\x12MarkTodosCompleted\x12\x19\n" +
-	"\btodo_ids\x18\x01 \x03(\tR\atodoIdsBYZOgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1\x92\x03\x05\xd2>\x02\x10\x03b\beditionsp\xe8\a"
+	"\btodo_ids\x18\x01 \x03(\tR\atodoIdsBKZAgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1\x92\x03\x05\xd2>\x02\x10\x03b\beditionsp\xe8\a"
 
 var file_todo_proto_msgTypes = make([]protoimpl.MessageInfo, 4)
 var file_todo_proto_goTypes = []any{

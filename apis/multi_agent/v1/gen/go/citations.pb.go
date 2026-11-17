@@ -207,7 +207,7 @@ const file_citations_proto_rawDesc = "" +
 	"\x04RULE\x10\x03\x12\x18\n" +
 	"\x14COGNIX_DOCUMENTATION\x10\x04\x12\f\n" +
 	"\bWEB_PAGE\x10\x05\x12\v\n" +
-	"\aUNKNOWN\x10\x06BYZOgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1\x92\x03\x05\xd2>\x02\x10\x03b\beditionsp\xe8\a"
+	"\aUNKNOWN\x10\x06BKZAgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1\x92\x03\x05\xd2>\x02\x10\x03b\beditionsp\xe8\a"
 
 var file_citations_proto_enumTypes = make([]protoimpl.EnumInfo, 1)
 var file_citations_proto_msgTypes = make([]protoimpl.MessageInfo, 1)

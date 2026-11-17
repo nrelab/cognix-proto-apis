@@ -65,7 +65,7 @@ const file_options_proto_rawDesc = "" +
 	"\n" +
 	"\roptions.proto\x12\x15cognix.multi_agent.v1\x1a google/protobuf/descriptor.proto:=\n" +
 	"\tsensitive\x12\x1d.google.protobuf.FieldOptions\x18І\x03 \x01(\bR\tsensitive:;\n" +
-	"\binternal\x12\x1d.google.protobuf.FieldOptions\x18ц\x03 \x01(\bR\binternalBQZOgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1b\beditionsp\xe8\a"
+	"\binternal\x12\x1d.google.protobuf.FieldOptions\x18ц\x03 \x01(\bR\binternalBCZAgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1b\beditionsp\xe8\a"
 
 var file_options_proto_goTypes = []any{
 	(*descriptorpb.FieldOptions)(nil), // 0: google.protobuf.FieldOptions
