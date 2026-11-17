@@ -117,7 +117,7 @@ const file_conversation_data_proto_rawDesc = "" +
 	"task.proto\"y\n" +
 	"\x10ConversationData\x121\n" +
 	"\x05tasks\x18\x01 \x03(\v2\x1b.cognix.multi_agent.v1.TaskR\x05tasks\x122\n" +
-	"\x13ordered_message_ids\x18\x02 \x03(\tB\x02\x18\x01R\x11orderedMessageIdsBYZOgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1\x92\x03\x05\xd2>\x02\x10\x03b\beditionsp\xe8\a"
+	"\x13ordered_message_ids\x18\x02 \x03(\tB\x02\x18\x01R\x11orderedMessageIdsBKZAgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1\x92\x03\x05\xd2>\x02\x10\x03b\beditionsp\xe8\a"
 
 var file_conversation_data_proto_msgTypes = make([]protoimpl.MessageInfo, 1)
 var file_conversation_data_proto_goTypes = []any{

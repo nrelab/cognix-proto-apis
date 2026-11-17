@@ -3000,7 +3000,7 @@ const file_attachment_proto_rawDesc = "" +
 	"linesAdded\x12#\n" +
 	"\rlines_removed\x18\x05 \x01(\rR\flinesRemoved\"6\n" +
 	"\x11FilePathReference\x12!\n" +
-	"\tfile_path\x18\x01 \x01(\tB\x04\x80\xb5\x18\x01R\bfilePathBYZOgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1\x92\x03\x05\xd2>\x02\x10\x03b\beditionsp\xe8\a"
+	"\tfile_path\x18\x01 \x01(\tB\x04\x80\xb5\x18\x01R\bfilePathBKZAgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1\x92\x03\x05\xd2>\x02\x10\x03b\beditionsp\xe8\a"
 
 var file_attachment_proto_msgTypes = make([]protoimpl.MessageInfo, 14)
 var file_attachment_proto_goTypes = []any{

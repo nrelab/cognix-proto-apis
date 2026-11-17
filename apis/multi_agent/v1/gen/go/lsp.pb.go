@@ -143,7 +143,7 @@ const file_lsp_proto_rawDesc = "" +
 	"\rLspDescriptor\x12+\n" +
 	"\x0eworkspace_root\x18\x01 \x01(\tB\x04\x80\xb5\x18\x01R\rworkspaceRoot\x12\x1f\n" +
 	"\vserver_name\x18\x02 \x01(\tR\n" +
-	"serverNameBYZOgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1\x92\x03\x05\xd2>\x02\x10\x03b\beditionsp\xe8\a"
+	"serverNameBKZAgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1\x92\x03\x05\xd2>\x02\x10\x03b\beditionsp\xe8\a"
 
 var file_lsp_proto_msgTypes = make([]protoimpl.MessageInfo, 1)
 var file_lsp_proto_goTypes = []any{

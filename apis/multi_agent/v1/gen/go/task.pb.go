@@ -35548,7 +35548,7 @@ const file_task_proto_rawDesc = "" +
 	"\"RISK_CATEGORY_TRIVIAL_LOCAL_CHANGE\x10\x02\x12)\n" +
 	"%RISK_CATEGORY_NONTRIVIAL_LOCAL_CHANGE\x10\x03\x12!\n" +
 	"\x1dRISK_CATEGORY_EXTERNAL_CHANGE\x10\x04\x12\x17\n" +
-	"\x13RISK_CATEGORY_RISKY\x10\x05BYZOgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1\x92\x03\x05\xd2>\x02\x10\x03b\beditionsp\xe8\a"
+	"\x13RISK_CATEGORY_RISKY\x10\x05BKZAgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1\x92\x03\x05\xd2>\x02\x10\x03b\beditionsp\xe8\a"
 
 var file_task_proto_enumTypes = make([]protoimpl.EnumInfo, 8)
 var file_task_proto_msgTypes = make([]protoimpl.MessageInfo, 239)

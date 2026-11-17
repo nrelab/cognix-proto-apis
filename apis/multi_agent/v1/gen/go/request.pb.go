@@ -8573,7 +8573,7 @@ const file_request_proto_rawDesc = "" +
 	"\fUNSUPERVISED\x10\x01*'\n" +
 	"\x0eIsolationLevel\x12\b\n" +
 	"\x04NONE\x10\x00\x12\v\n" +
-	"\aSANDBOX\x10\x01BYZOgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1\x92\x03\x05\xd2>\x02\x10\x03b\beditionsp\xe8\a"
+	"\aSANDBOX\x10\x01BKZAgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1\x92\x03\x05\xd2>\x02\x10\x03b\beditionsp\xe8\a"
 
 var file_request_proto_enumTypes = make([]protoimpl.EnumInfo, 2)
 var file_request_proto_msgTypes = make([]protoimpl.MessageInfo, 46)

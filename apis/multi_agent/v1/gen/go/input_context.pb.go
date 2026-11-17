@@ -1484,7 +1484,7 @@ const file_input_context_proto_rawDesc = "" +
 	"\rSkillsContext\x12Q\n" +
 	"\x10available_skills\x18\x01 \x03(\v2&.cognix.multi_agent.v1.SkillDescriptorR\x0favailableSkills\x1am\n" +
 	"\x11LspServersContext\x12X\n" +
-	"\x15available_lsp_servers\x18\x01 \x03(\v2$.cognix.multi_agent.v1.LspDescriptorR\x13availableLspServersBYZOgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1\x92\x03\x05\xd2>\x02\x10\x03b\beditionsp\xe8\a"
+	"\x15available_lsp_servers\x18\x01 \x03(\v2$.cognix.multi_agent.v1.LspDescriptorR\x13availableLspServersBKZAgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1\x92\x03\x05\xd2>\x02\x10\x03b\beditionsp\xe8\a"
 
 var file_input_context_proto_msgTypes = make([]protoimpl.MessageInfo, 12)
 var file_input_context_proto_goTypes = []any{

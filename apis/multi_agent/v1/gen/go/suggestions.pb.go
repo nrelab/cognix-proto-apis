@@ -403,7 +403,7 @@ const file_suggestions_proto_rawDesc = "" +
 	"\x04name\x18\x01 \x01(\tR\x04name\x12\x16\n" +
 	"\x06prompt\x18\x02 \x01(\tR\x06prompt\x12\x1d\n" +
 	"\n" +
-	"logging_id\x18\x03 \x01(\tR\tloggingIdBYZOgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1\x92\x03\x05\xd2>\x02\x10\x03b\beditionsp\xe8\a"
+	"logging_id\x18\x03 \x01(\tR\tloggingIdBKZAgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1\x92\x03\x05\xd2>\x02\x10\x03b\beditionsp\xe8\a"
 
 var file_suggestions_proto_msgTypes = make([]protoimpl.MessageInfo, 3)
 var file_suggestions_proto_goTypes = []any{

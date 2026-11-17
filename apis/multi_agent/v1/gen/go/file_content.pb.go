@@ -567,7 +567,7 @@ const file_file_content_proto_rawDesc = "" +
 	"\x0eAnyFileContent\x12Q\n" +
 	"\x0ebinary_content\x18\x01 \x01(\v2(.cognix.multi_agent.v1.BinaryFileContentH\x00R\rbinaryContent\x12G\n" +
 	"\ftext_content\x18\x02 \x01(\v2\".cognix.multi_agent.v1.FileContentH\x00R\vtextContentB\t\n" +
-	"\acontentBYZOgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1\x92\x03\x05\xd2>\x02\x10\x03b\beditionsp\xe8\a"
+	"\acontentBKZAgithub.com/nrelab/cognix-proto-apis/apis/multi_agent/v1/gen/go;v1\x92\x03\x05\xd2>\x02\x10\x03b\beditionsp\xe8\a"
 
 var file_file_content_proto_msgTypes = make([]protoimpl.MessageInfo, 4)
 var file_file_content_proto_goTypes = []any{
